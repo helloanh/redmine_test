@@ -9,6 +9,10 @@ gem "request_store", "1.0.5"
 gem "mime-types"
 gem "rbpdf", "~> 1.18.1"
 
+gem 'ps'
+
+gem 'rails_12factor', group: :production
+
 # Optional gem for LDAP authentication
 group :ldap do
   gem "net-ldap", "~> 0.3.1"
