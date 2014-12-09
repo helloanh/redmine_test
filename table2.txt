@@ -1,0 +1,2 @@
+horse   ball    7
+sheep   cow     2

@@ -1,0 +1,2 @@
+cat   ball    1
+dog   cow     23
